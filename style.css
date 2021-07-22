@@ -24,3 +24,27 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    border-top: none;
+}
+
+#Subscribe{
+    height: 300px;
+
+}
+
+.submit-btn{
+    margin-top: 5px;
+}
+
+.footer{
+    text-align: center;
+    margin-bottom: 15px;
+}
